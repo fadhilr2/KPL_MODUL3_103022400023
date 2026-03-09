@@ -6,5 +6,10 @@ namespace Modul3_10302240023
         {
             InitializeComponent();
         }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }

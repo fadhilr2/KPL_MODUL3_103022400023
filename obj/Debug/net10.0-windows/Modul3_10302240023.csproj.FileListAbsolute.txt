@@ -1,0 +1,17 @@
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\bin\Debug\net10.0-windows\Modul3_10302240023.exe
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\bin\Debug\net10.0-windows\Modul3_10302240023.deps.json
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\bin\Debug\net10.0-windows\Modul3_10302240023.runtimeconfig.json
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\bin\Debug\net10.0-windows\Modul3_10302240023.dll
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\bin\Debug\net10.0-windows\Modul3_10302240023.pdb
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.Form1.resources
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.csproj.GenerateResource.cache
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.AssemblyInfoInputs.cache
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.AssemblyInfo.cs
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.csproj.CoreCompileInputs.cache
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.sourcelink.json
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.dll
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\refint\Modul3_10302240023.dll
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.pdb
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\Modul3_10302240023.genruntimeconfig.cache
+C:\Users\bob\source\repos\Modul3_10302240023\Modul3_10302240023\obj\Debug\net10.0-windows\ref\Modul3_10302240023.dll
